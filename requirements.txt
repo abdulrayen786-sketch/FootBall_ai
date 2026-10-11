@@ -1,9 +1,7 @@
+streamlit
+opencv-python-headless
 ultralytics
-opencv-python
 numpy
 pandas
+Pillow
 matplotlib
-streamlit
-imageio-ffmpeg
-reportlab
-openpyxl
